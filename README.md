@@ -88,5 +88,11 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## New Section
+## About Me
+hello lolraja
+
+## Adding Image
+![Hosted image](https://cdn.pixabay.com/photo/2018/11/11/16/51/ibis-3809147_960_720.jpg "pic number ibis-3809147_960_720")
+
+
 
