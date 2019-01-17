@@ -89,7 +89,9 @@ Denise Case
 dcase@nwmissouri.edu
 
 ## About Me
-hello lolraja
+- "I am Bharadwaj, people call me Battu and I am from India"
+- "I am from computer scince background purusing graduatiion in ACS for see my self as Full stack developer"
+- [Please my linked profile here](https://www.linkedin.com/in/bharadwaj-gandrakota-67269698/ "Working With Markdown Source")
 
 ## Adding Image
 ![Hosted image](https://cdn.pixabay.com/photo/2018/11/11/16/51/ibis-3809147_960_720.jpg "pic number ibis-3809147_960_720")
